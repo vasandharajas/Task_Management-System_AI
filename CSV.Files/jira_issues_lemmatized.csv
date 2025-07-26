@@ -1,0 +1,4 @@
+task_id,title,description,priority,created_at,status,assigned_to,due_date
+TMSP123-6,Sample issue for testing,"{'type': 'doc', 'version': 1, 'content': [{'type': 'paragraph', 'content': [{'type': 'text', 'text': 'This is a test issue created using Jira API.'}]}]}",Medium,2025-05-19T12:43:57.610+0530,To Do,Vasandharaja S,
+TMSP123-5,Sample issue for testing,"{'type': 'doc', 'version': 1, 'content': [{'type': 'paragraph', 'content': [{'type': 'text', 'text': 'This is a test issue created using Jira API.'}]}]}",Medium,2025-05-18T13:33:31.223+0530,To Do,Vasandharaja S,
+TMSP123-4,TMSP123,,Medium,2025-05-18T13:31:01.746+0530,In Progress,Vasandharaja S,
